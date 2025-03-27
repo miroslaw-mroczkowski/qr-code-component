@@ -2,7 +2,7 @@
   "name": "qr-code-component",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/miroslaw-mroczkowski/qr-code-component",
+  "homepage": "https://miroslaw-mroczkowski.github.io/qr-code-component/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

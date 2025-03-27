@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/miroslaw-mroczkowski/qr-code-component/static/js/main.5295708a.js",
-    "index.html": "/miroslaw-mroczkowski/qr-code-component/index.html",
-    "main.5295708a.js.map": "/miroslaw-mroczkowski/qr-code-component/static/js/main.5295708a.js.map"
+    "main.js": "/qr-code-component/static/js/main.5295708a.js",
+    "index.html": "/qr-code-component/index.html",
+    "main.5295708a.js.map": "/qr-code-component/static/js/main.5295708a.js.map"
   },
   "entrypoints": [
     "static/js/main.5295708a.js"
